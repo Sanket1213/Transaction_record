@@ -1,4 +1,4 @@
- from tkinter import *
+from tkinter import *
 from tkinter import ttk
 import pymysql
 from tkinter import messagebox
